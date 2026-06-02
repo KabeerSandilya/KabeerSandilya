@@ -60,4 +60,4 @@ Exploring AI agents, LangGraph orchestration, and agentic workflows. If it's new
 
 📧 [kabeersandilya20@gmail.com](mailto:kabeersandilya20@gmail.com)  
 💼 [LinkedIn](https://linkedin.com/in/kabeersandilya)  
-🧩 [LeetCode](https://leetcode.com) 
+🧩 [LeetCode](https://leetcode.com/u/Kabeer_sandilya/) 
