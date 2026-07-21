@@ -32,7 +32,7 @@ End-to-end AI wardrobe platform with a Gemini 2.5 Flash vision pipeline that aut
 
 ---
 
-### 📡 [ChatterBox](https://github.com/KabeerSandilya/ChatterBox) — Real-Time Video Calling
+### 📡 [ChatterBox](https://github.com/KabeerSandilya/ChatterBox---Video-Calling-App) — Real-Time Video Calling
 
 Peer-to-peer video system built on WebRTC + WebSocket signaling. Sub-second latency, 50+ concurrent sessions, 30% faster connection setup via event-driven architecture.
 
